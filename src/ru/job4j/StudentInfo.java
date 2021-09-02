@@ -5,4 +5,5 @@ public class StudentInfo {
         System.out.println("Artem");
         System.out.println("01.01.1901");
     }
+
 }
