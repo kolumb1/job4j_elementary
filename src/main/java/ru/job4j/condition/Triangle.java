@@ -7,7 +7,7 @@ public class Triangle {
     }
 
     public static  void main(String[] args) {
-        boolean rsl = exist(2, 2, 2);
+        boolean rsl = exist(1, 2, 2);
         System.out.println(rsl);
     }
 }
