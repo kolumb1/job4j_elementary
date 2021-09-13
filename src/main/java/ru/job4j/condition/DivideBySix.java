@@ -24,6 +24,6 @@ public class DivideBySix {
     }
 
     public  static void main(String[] args) {
-       DivideBySix.checkNumber(34);
+        DivideBySix.checkNumber(34);
     }
 }
