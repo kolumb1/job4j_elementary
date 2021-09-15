@@ -12,8 +12,8 @@ public class MultipleSwitchWeek {
             case "Воскресенье", "Sunday" -> 7;
             default -> -1;
         }
-        return x;
-    }*/
+        return x;*/
+    }
 
     public static void main(String[] args) {
         System.out.println(numberOfDay("Вторник"));
