@@ -15,7 +15,7 @@ public class DivideBySix {
             if (number % 2 == 0) {
                 rsl = "Исходное число не делится на 3, но является четным.";
                 System.out.println(rsl);
-            } else {          // Иначе
+            } else {
                 rsl = "Исходное число не делится на 3 и не является четным.";
                 System.out.println(rsl);
             }
