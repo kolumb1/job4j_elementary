@@ -11,4 +11,9 @@ public class Check {
         }
         return result;
     }
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> bd3cdac (6.4. Слово начинается с ... [#41585])
